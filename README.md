@@ -1,4 +1,4 @@
-# How can i lock my folder in window 11.
+# How can i lock my folder in windows 11.
 You can lock your private folder using this code with strong password.
 You have to create new file and paste this code in that.
 After that you have to replace your password with "Your password" in line no 21.
